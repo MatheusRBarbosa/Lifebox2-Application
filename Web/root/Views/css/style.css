@@ -1,0 +1,52 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.normal_nav
+{
+	position: absolute;
+	right: 70%;
+
+}
+.vertical-align{
+	position: absolute;
+	top: 10%;
+}
+.waves-blue{
+	background-color: rgb(33, 150, 243);
+}
+.waves-red{
+	background-color: rgb(201, 35, 35);
+}
+.waves-red:hover {
+	background-color: rgb(221, 79, 79);
+}
+body{
+	background-color: #e3f2fd;
+}
+hr {
+	color: rgb(175, 184, 226);
+	background-color: rgb(175, 184, 226);
+	height: 1px;
+	max-width: 600px;
+}
+.btnAnalise{
+	position: relative;
+	left: 5%;
+}
+.margin3{
+	margin:3px;
+}
+.pcolorBox{
+	margin-left: 75px;
+}
