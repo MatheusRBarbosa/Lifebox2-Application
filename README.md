@@ -23,5 +23,5 @@ Os códigos fontes podem ser encontrados em :
 ![Exemplo 2](https://image.prntscr.com/image/fU78qF1UTQGkMM-MaeJLpw.png)<br>
 - No dropdown irá aparecer todas as portas COM que estão sendo usadas em sua maquina, selecione a que for do arduino e clique em "conectar"
 - Em "indentificação" é o espaço para se dar o nome do teste
-- Quando se clica em "Iniciar Registro" os valores de temperatura junto com a identificação serão registrados no banco de dados
+- Quando se clica em "Iniciar Registro" os valores de temperatura junto com a identificação serão registrados no banco de dados<br>
 *Por isso se deve abrir primeiro o servidor local e depois o app desktop*
