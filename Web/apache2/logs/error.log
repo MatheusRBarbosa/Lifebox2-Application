@@ -1,0 +1,5 @@
+[Mon Jan 08 13:56:41.207421 2018] [mpm_winnt:notice] [pid 1804:tid 808] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Mon Jan 08 13:56:41.207923 2018] [mpm_winnt:notice] [pid 1804:tid 808] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Mon Jan 08 13:56:41.207923 2018] [core:notice] [pid 1804:tid 808] AH00094: Command line: 'C:\\Users\\mathe\\Dropbox\\LEDS\\lifebox2web/apache2/bin/httpd_usbwv8.exe -d C:/Users/mathe/Dropbox/LEDS/lifebox2web/apache2'
+[Mon Jan 08 13:56:41.221458 2018] [mpm_winnt:notice] [pid 1804:tid 808] AH00418: Parent: Created child process 10508
+[Mon Jan 08 13:56:41.676669 2018] [mpm_winnt:notice] [pid 10508:tid 820] AH00354: Child: Starting 64 worker threads.
