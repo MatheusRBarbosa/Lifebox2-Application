@@ -5,7 +5,7 @@ Os códigos fontes podem ser encontrados em :
 - Web : https://github.com/MatheusRBarbosa/lifebox2srcWeb
 
 ## Instalação
-<br>**Apenas para Windows **<br>
+<br>**Apenas para Windows**<br>
 - Baixe as duas pastas
 - Na pasta "Desktop" você encontrará um arquivo chamado "rxtxSerial.dll", coloque esse arquivo dentro da pasta **jre/bin** do seu java
 - Pronto, instalado !
