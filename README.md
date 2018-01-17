@@ -6,12 +6,12 @@ Os códigos fontes podem ser encontrados em :
 
 ## Instalação
 <br>**Apenas para Windows**<br>
-- Baixe as duas pastas
+- Baixe as duas pastas do repositório atual
 - Na pasta "Desktop" você encontrará um arquivo chamado "rxtxSerial.dll", coloque esse arquivo dentro da pasta **jre/bin** do seu java
 - Pronto, instalado !
 
 ## Usando
-- Primeiro, execute o arquivo "usbwebserver.exe" e espere os dois icones verder aparecerem<br>
+- Primeiro, execute o arquivo "usbwebserver.exe" e espere os dois icones verdes aparecerem<br>
 ![Exemplo](https://image.prntscr.com/image/otuaCcmMS92VP6FvxemtXQ.png)<br>
 - Clique na aba "general" e aparecerá 4 botões, 3 deles são importantes
   - Root dir: Abre a a pasta root que contém o código fonte
